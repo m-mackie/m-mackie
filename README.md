@@ -10,4 +10,6 @@ Moving over from a long career of customer service, billing and retail. In 2019 
 
 - I am always looking on new ways to grow and learn. I am simultaniously while I learn web development, self-teaching UI design. 
 
+- I enjoy various hobbies that I look to blend in with my work, such as photography and graphic design. But I also enjoy writing short stories, reading, art of almost any kind. I enjoy being creative and I try to let that show through everything I do.
+
 -->
