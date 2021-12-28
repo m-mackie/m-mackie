@@ -1,6 +1,6 @@
 ### Hello There, I am Melissa, 👋
 
-Moving over from a long career of customer service, billing and retail. In 2019 I enrolled as a student at Lambda School learning full stack web development. I am currently set to earn my endorsement late 2021. 
+Moving over from a long career of customer service, billing and retail. In 2019 I enrolled as a student at Lambda School learning full stack web development. I am currently set to earn my endorsement late 2022. 
 
 - 🔭 I’m currently working on ...my professional portfolio.
 
