@@ -19,10 +19,7 @@ Moving over from a long career in customer service, billing, and retail. In 2019
 </p>
 
 
-# 💻 Tech Stack:
- 
-# 📊 GitHub Stats:
- 
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=m-mackie&icon=0&color=0)](https://visitcount.itsvg.in)
+
