@@ -1,24 +1,28 @@
-<h1 align="left">👋Hi , I'm Melissa</h1>
-<h3 align="left">A passionate full-stack developer</h3>
+# Melissa Mackie 
+**`Full-Stack Developer | Front-End Developer | Back-End Developer`**
 
-Currently, contributing to dynamic web development projects using React, JavaScript, CSS, HTML, Express, and RESTful APIs! Feel free to check out my pinned projects or connect with me on LinkedIn to learn more.
+##
+<p>
+🌟 Hello wonderful people! I am a person that is passionate about moving into a new career field that has been my dream career for a very long time 
 
-- 💁 I’m building my professional portfolio, its a work in progress :D
-- 🎨 I have two passion projects I am working on. One is for family. It is an e-commerce site for their small business (it is in brainstorm stage) waiting on my parents to decide on colors and branding, the other is a blog for myself to showcase my different hobbies (also in brainstorm stage) I am currently working on the art and branding. 
-- 📃 I’m currently learning ...Liquid and reinforcing my knowledge of the fundamentals: CSS, HTML, and JSS. I am interested in learning how to develop Emails using JS, CSS and HTML.
-- 👯 I’m interested in collaborating on open source projects
-- 📝 I am always looking for new ways to grow and learn
+🔥 ABOUT ME 🔥
 
-Moving over from a long career in customer service, billing, and retail. In 2019 I enrolled as a student at Lambda School learning full stack web development. I am currently set to earn my endorsement this month (May 2023). I enjoy various creative hobbies that I look to blend in with my work, such as photography and graphic design. Likewise, I also enjoy writing short stories, reading and appreciating art of almost any kind
+As a Full-Stack Web Developer with an Endorsement from BloomTech, I have the technical and creative skills to build engaging and user-friendly websites and applications. I have experience working with HTML, CSS, JavaScript, React, Redux, Node, and Express, as well as Figma, Adobe Creative Suite, Photography, and Procreate for graphic design. 
 
+I am passionate about pursuing a new career field that has been my dream for a long time, after overcoming a health complication that left me at a crossroads. I have a customer-service rich employment history, where I have demonstrated empathy, passion, and a never-give-up mindset. I have also volunteered and assisted with my family business at conventions, where I have gained sales and communication skills. I am eager to join a company where I can make a difference, have a creative outlet, and grow as a web developer.
 
-<h3 align="left">Connect with me:</h3>
+🔆My Technical & Professional SuperPowers🔆
+
+🔹Full Stack Web Development using HTML, CSS, JavaScript, React, Redux, Node, and Express
+Interpersonal Skills
+🔹 Creative and Graphic Design Skills using Figma, Adobe Creative Suite, Photography, Procreate
+🔹 Soft Skills include stress management, critical thinking, problem-solving, teamwork, communication, interpersonal skills, conflict resolution, empathetic listening, friendly demeanor, adaptability, rapport-building, Analytical thinking and research.
+
+☕️ Let’s connect over Virtual Coffee (or Tea)!
+</p>
+
+#
 <p align="left">
-<a href="https://linkedin.com/in/melissa-m-mackie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melissa-m-mackie" height="30" width="40" /></a>
- 
-
-
-
-
----
-
+<a href="https://docs.google.com/document/d/1-shVOjoOlQq7u8NIBQBxMce9EQgkb8HSRTHdh_h4kd4/edit" target="blank"><img align="center" src="https://flat.badgen.net/badge/=/MyResume" alt="melissamackie" height="120" width="120" /></a>
+<a href="https://www.linkedin.com/in/melissa-m-mackie" target="blank"><img align="center" src="https://flat.badgen.net/badge/Profile/LinkedIn" alt="melissamackie" height="120" width="120" /></a>
+</p>
